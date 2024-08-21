@@ -9,7 +9,7 @@ const Home = () => {
   return (
     <div>
      <Headers />
-     <ExploreMenu category={category} setCategory={setCategory} />{/*  category={category} setcategory={setcategory} Thats "Props" share to "ExploreMenu"   */}
+     <ExploreMenu category={category} setCategory={setCategory} /> {/*  category={category} setcategory={setcategory} Thats "Props" share to "ExploreMenu"   */}
     <FoodDisplay category={category} />
     <AppDownlode />
     </div>

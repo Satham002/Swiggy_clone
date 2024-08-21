@@ -68,3 +68,15 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+### `Hosting Procedure` Command
+
+ "homepage": "https://Satham002.github.io/Swiggy_clone",
+ "predeploy": "npm run build",
+ "deploy":"gh-pages -d build",
+
+        Add above 3 lines in package.json file
+        
+### `install package in local computer for Hosing Tool` Command
+        npm install gh-pages --save-dev
