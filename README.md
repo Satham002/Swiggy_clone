@@ -72,11 +72,13 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 ### `Hosting Procedure` Command
 
- "homepage": "https://Satham002.github.io/Swiggy_clone",
- "predeploy": "npm run build",
- "deploy":"gh-pages -d build",
+ "homepage": "https://Satham002.github.io/Swiggy_clone"
+
+ "predeploy": "npm run build"
+ 
+ "deploy":"gh-pages -d build"
 
         Add above 3 lines in package.json file
-        
+
 ### `install package in local computer for Hosing Tool` Command
         npm install gh-pages --save-dev
