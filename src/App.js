@@ -15,7 +15,7 @@ function App() {
       <div className="App">
         <Navbar setshowLogin={setshowLogin} />
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/Swiggy_clone" element={<Home />} />
           <Route path="/cart" element={<Cart />} />
           <Route path="/placeorder" element={<PlaceOrder />} />
           {/* <Route path="/" element={} /> */}
