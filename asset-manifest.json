@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Swiggy_clone/static/css/main.9bf46432.css",
-    "main.js": "/Swiggy_clone/static/js/main.d58add81.js",
+    "main.css": "/Swiggy_clone/static/css/main.a28be685.css",
+    "main.js": "/Swiggy_clone/static/js/main.8e3fbf3f.js",
     "static/media/header_img.png": "/Swiggy_clone/static/media/header_img.87c84a24f79531681564.png",
     "static/media/food_4.png": "/Swiggy_clone/static/media/food_4.49c25dfbf26ca41b7c88.png",
     "static/media/food_8.png": "/Swiggy_clone/static/media/food_8.84340adb61a67781e5a6.png",
@@ -44,11 +44,11 @@
     "static/media/menu_2.png": "/Swiggy_clone/static/media/menu_2.e67909d4321967495cac.png",
     "static/media/menu_4.png": "/Swiggy_clone/static/media/menu_4.954b7fb395c46eda438f.png",
     "index.html": "/Swiggy_clone/index.html",
-    "main.9bf46432.css.map": "/Swiggy_clone/static/css/main.9bf46432.css.map",
-    "main.d58add81.js.map": "/Swiggy_clone/static/js/main.d58add81.js.map"
+    "main.a28be685.css.map": "/Swiggy_clone/static/css/main.a28be685.css.map",
+    "main.8e3fbf3f.js.map": "/Swiggy_clone/static/js/main.8e3fbf3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.9bf46432.css",
-    "static/js/main.d58add81.js"
+    "static/css/main.a28be685.css",
+    "static/js/main.8e3fbf3f.js"
   ]
 }
